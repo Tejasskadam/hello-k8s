@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/Tejasskadam/hello-k8s.git
-    targetRevision: HEAD
+    targetRevision: master
     path: .
   destination:
     server: https://kubernetes.default.svc
